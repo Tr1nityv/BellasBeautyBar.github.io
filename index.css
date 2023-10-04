@@ -1,1 +1,5 @@
-<h1 class="red-text" color= yellow ;</h1>
+hr {
+  height:5px;
+  border-width:0;
+  background-color:#00A4BD;
+}
